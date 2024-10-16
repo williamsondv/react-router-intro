@@ -1,0 +1,6 @@
+#candyCard {
+  background-image: url("candy.jpg");
+  background-size: cover;
+  height: 50vh;
+  width: 60vh;
+}

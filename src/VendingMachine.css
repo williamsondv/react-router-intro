@@ -1,0 +1,18 @@
+.vendingDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.card {
+  text-align: center;
+  height: 20vh;
+  width: 30vh;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.card > p > a {
+  text-decoration: none;
+}

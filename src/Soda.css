@@ -1,0 +1,6 @@
+#sodaCard {
+  background-image: url("soda.jpg");
+  background-size: cover;
+  height: 50vh;
+  width: 60vh;
+}
